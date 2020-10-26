@@ -33,3 +33,7 @@ coronavirus, if the answer is correct they will earn a walk point.
 
 This game is just a prototype, if it were to become implemented into society our team would make this game into a web-based application so
 that kids would be able to play with other family members such as their grandma in the nursing home.
+
+VIDEO DEMO HERE:
+
+https://www.youtube.com/watch?v=PCvFVwExjQA&feature=youtu.be
